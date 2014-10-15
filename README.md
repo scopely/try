@@ -1,4 +1,4 @@
 try
 ===
 
-Scala's Try, in Java
+Like Scala's Try, but in Java.
